@@ -19,3 +19,4 @@ After you read this, After you read this, you can make an interactive map with t
 8. Legend control
 
 Please refer to this Medium article for more details:
+Ipyleaflet & IpyWidgets: Interactive Map in Jupyter Notebook
